@@ -11,7 +11,8 @@
 [![Project Maintenance][maintenance-shield]][user_profile]
 [![BuyMeCoffee][buymecoffeebadge]][buymecoffee]
 
-This custom component for [home assistant](https://home-assistant.io/) will let you connect your Hydraloop water recycler to Home Assistant.
+This is a custom component for [home assistant](https://home-assistant.io/).
+It will let you connect your Hydraloop water recycler to Home Assistant.
 
 
 ## Contributions are welcome!
