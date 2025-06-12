@@ -37,5 +37,5 @@ If you want to contribute to this please read the [Contribution guidelines](http
 [pre-commit-shield]: https://img.shields.io/badge/pre--commit-enabled-brightgreen?style=for-the-badge
 [releases-shield]: https://img.shields.io/github/release/snah-private/ha-hydraloop.svg?style=for-the-badge
 [releases]: https://github.com/snah-private/ha-hydraloop/releases
-[user_profile]: https://github.com/CJNE
+[user_profile]: https://github.com/snah-private
 
